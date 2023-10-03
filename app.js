@@ -35,8 +35,10 @@ while (i <= 100) {
 let a = 1;
 
 do {
-    console.log(a);
-    a++; 
+    if (a % 2 !== 0) {
+        console.log(a + " is odd");
+    }
+    a++;
 } while (a <= 100);
 
 let b = 1;

@@ -32,8 +32,8 @@ FIZZBUZZ is a very common coding interview problem. Below are the instructions t
 Ex: `15` would print `'FIZZBUZZ'`, `33` would print `'FIZZ'`, and `35` would print `'BUZZ'`
 
 ## Exercise 3: Repeat with While and Do/While
-
 For exercise 3, repeat both exercise 1 and 2 as `while` and `do/while` loop solutions.
+
 
 ## Exercise 4: Find Value
 
